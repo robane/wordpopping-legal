@@ -87,12 +87,11 @@ as a consumer under Polish or EU law.
 
 ## 9. Limitation of liability
 
-The App is free of charge. To the maximum extent permitted by law, our
-total liability arising out of or in connection with the App is limited to
-EUR 5.
-
-We are not liable for indirect, incidental, special, consequential, or
-punitive damages, including loss of profits, data, or progress.
+The App is free of charge. To the maximum extent permitted by applicable
+law, we accept **no liability** arising out of or in connection with the
+App, and we are not liable for any direct, indirect, incidental, special,
+consequential, or punitive damages, including loss of profits, data, or
+progress.
 
 This limitation does not apply to liability that cannot be excluded under
 applicable law (including, in particular, liability for death or personal
