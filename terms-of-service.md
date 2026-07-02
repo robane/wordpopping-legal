@@ -89,7 +89,7 @@ as a consumer under Polish or EU law.
 
 The App is free of charge. To the maximum extent permitted by law, our
 total liability arising out of or in connection with the App is limited to
-EUR 50.
+EUR 5.
 
 We are not liable for indirect, incidental, special, consequential, or
 punitive damages, including loss of profits, data, or progress.
